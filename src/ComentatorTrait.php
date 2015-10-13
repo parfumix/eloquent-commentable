@@ -1,0 +1,3 @@
+<?php
+
+namespace Eloquent\Commentable;

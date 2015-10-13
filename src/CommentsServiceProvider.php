@@ -1,6 +1,7 @@
 <?php
 
 namespace Eloquent\Commentable;
+
 use Illuminate\Support\ServiceProvider;
 
 class CommentsServiceProvider extends ServiceProvider {

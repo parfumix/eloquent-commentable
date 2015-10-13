@@ -8,7 +8,7 @@ class Comment extends Model {
 
     public $timestamps = true;
 
-    public $fillable = ['comment', 'status'];
+    public $fillable = ['author_id', 'author_type', 'comment', 'status'];
 
     /**
      * Get all of the owning commentable models.
